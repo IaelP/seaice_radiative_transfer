@@ -3,6 +3,7 @@
 *.so.*
 *.so
 
+/data/Davis_station
 ccsm3_sir_de_output.dat
 run_crm
 1D_dE_CCSM/extra_variables.txt
